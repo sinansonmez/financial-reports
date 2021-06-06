@@ -1,4 +1,4 @@
-This is a repository to store the investor relations site and quarterly financial report links for major banks from Europe, United States and Asia
+This is a repository to store the investor relations site and quarterly financial reports (to be completed) links for major banks from Asia, Europe, and United States
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -12,12 +12,12 @@ This is a repository to store the investor relations site and quarterly financia
 
 ## Asia
 ### China
-* [Agricultural Bank of China](https://.com)
-* [Bank of China](https://.com)
-* [China Construction Bank](https://.com)
-* [China Development Bank (CDB)](https://.com)
-* [Industrial & Commercial Bank of China (ICBC)](https://.com)
-* [Postal Savings Bank of China](https://.com)
+* [Agricultural Bank of China](http://www.abchina.com/en/investor-relations/)
+* [Bank of China](https://www.boc.cn/en/investor/)
+* [China Construction Bank](http://www.ccb.com/en/newinvestor/index.html)
+* [China Development Bank (CDB)](https://www.cdb-intl.com/eng/ir/financialreport.htm)
+* [Industrial & Commercial Bank of China (ICBC)](http://www.icbc-ltd.com/ICBCLtd/Investor%20Relations/)
+* [Postal Savings Bank of China](https://www.psbc.com/en/)
 ### Japan
 * [Japan Post Bank](https://.com)
 * [Mitsubishi UFJ Financial Group](https://.com)
