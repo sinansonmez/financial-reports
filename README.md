@@ -4,9 +4,9 @@ This is a repository to store the investor relations site and quarterly financia
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#asia">Asia</a></li>
     <li><a href="#europe">Europe</a></li>
     <li><a href="#united-states">United States</a></li>
-    <li><a href="#asia">Asia</a></li>
   </ol>
 </details>
 
