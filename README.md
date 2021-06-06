@@ -72,3 +72,7 @@ This is a repository to store the investor relations site and quarterly financia
 * [Truist Bank](https://ir.truist.com)
 * [U.S. Bancorp](https://ir.usbank.com)
 * [Wells Fargo](https://www.wellsfargo.com/about/investor-relations/)
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
