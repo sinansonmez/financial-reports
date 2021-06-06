@@ -26,20 +26,20 @@ This is a repository to store the investor relations site and quarterly financia
 
 ## Europe
 ### Austria
-* [Erste](https://.com)
-* [Raiffeisen](https://.com)
+* [Erste](https://www.erstegroup.com/en/investors)
+* [Raiffeisen](https://www.rbinternational.com/en/investors.html)
 ### Switzerland
-* [Credit Suisse](https://.com)
-* [UBS](https://.com)
+* [Credit Suisse](https://www.credit-suisse.com/about-us/en/investor-relations.html)
+* [UBS](https://www.ubs.com/global/en/investor-relations.html)
 ### Germany
-* [Commerzbank](https://.com)
-* [Deutche Bank](https://.com)
+* [Commerzbank](https://www.commerzbank.com/en/hauptnavigation/aktionaere/ir/investor_relations.html)
+* [Deutsche Bank](https://www.db.com/ir/index_en.htm)
 ### Denmark
-* [Danske Bank](https://.com)
+* [Danske Bank](https://danskebank.com/investor-relations)
 ### Spain
-* [BBVA](https://.com)
-* [Caixa](https://.com)
-* [Santander](https://.com)
+* [BBVA](https://shareholdersandinvestors.bbva.com)
+* [Caixa](https://www.caixabank.com/en/shareholders-investors.html)
+* [Santander](https://www.santander.com/en/shareholders-and-investors)
 ### France
 * [BNP](https://.com)
 * [Credit Agricole](https://.com)
