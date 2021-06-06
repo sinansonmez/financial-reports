@@ -19,10 +19,10 @@ This is a repository to store the investor relations site and quarterly financia
 * [Industrial & Commercial Bank of China (ICBC)](http://www.icbc-ltd.com/ICBCLtd/Investor%20Relations/)
 * [Postal Savings Bank of China](https://www.psbc.com/en/)
 ### Japan
-* [Japan Post Bank](https://.com)
-* [Mitsubishi UFJ Financial Group](https://.com)
-* [Mizuho Financial Group](https://.com)
-* [Sumitomo Mitsui Financial Group](https://.com)
+* [Japan Post Bank](https://www.jp-bank.japanpost.jp/en/ir/en_ir_index.html)
+* [Mitsubishi UFJ Financial Group](https://www.mufg.jp/english/ir/index.html)
+* [Mizuho Financial Group](https://www.mizuhogroup.com/investors)
+* [Sumitomo Mitsui Financial Group](https://www.smfg.co.jp/english/investor/)
 
 ## Europe
 ### Austria
