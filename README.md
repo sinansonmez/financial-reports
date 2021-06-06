@@ -41,25 +41,25 @@ This is a repository to store the investor relations site and quarterly financia
 * [Caixa](https://www.caixabank.com/en/shareholders-investors.html)
 * [Santander](https://www.santander.com/en/shareholders-and-investors)
 ### France
-* [BNP](https://.com)
-* [Credit Agricole](https://.com)
-* [Societe General](https://.com)
+* [BNP](https://invest.bnpparibas.com/en)
+* [Credit Agricole](https://www.credit-agricole.com/en/finance/finance)
+* [Societe Generale](https://investors.societegenerale.com/en)
 ### Italy
-* [Intesa San Paolo](https://.com)
-* [UniCredit](https://.com)
+* [Intesa San Paolo](https://group.intesasanpaolo.com/it/investor-relations)
+* [UniCredit](https://www.unicreditgroup.eu/en/investors.html)
 ### Netherlands
-* [ABN Amro](https://.com)
-* [ING](https://.com)
-* [Rabobank](https://.com)
+* [ABN Amro](https://www.abnamro.com/en/investor-relations/overview)
+* [ING](https://www.ing.com/Investor-relations.htm)
+* [Rabobank](https://www.rabobank.com/en/investors/index.html)
 ### Sweden
-* [Nordea Bank](https://.com)
-* [Swedbank](https://.com)
+* [Nordea Bank](https://www.nordea.com/en/investor-relations/)
+* [Swedbank](https://www.swedbank.com/investor-relations.html)
 ### United Kingdom
-* [Barclays](https://.com)
-* [HSBC](https://.com)
-* [Lloyds](https://.com)
-* [RBS](https://.com)
-* [Standard Chartered](https://.com)
+* [Barclays](https://home.barclays/investor-relations/)
+* [HSBC](https://www.hsbc.com/investors)
+* [Lloyds](https://www.lloydsbankinggroup.com/investors.html)
+* [NatWest Group](https://investors.natwestgroup.com)
+* [Standard Chartered](https://www.sc.com/en/investors/)
 
 ## United States
 * [Bank of America Corp.](https://.com)
